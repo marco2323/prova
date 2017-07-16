@@ -9,7 +9,7 @@ email: marco@vismara.info
 
 
 ## Education
-* 2017: Specialty in clinical and laboratory genetics. 5 years curriculum. 
+* 2017: Specialty in Clinical and Laboratory genetics. 5 years curriculum. 
 
   Coordinating center: "Tor Vergata" University of Rome, Italy. 
   
