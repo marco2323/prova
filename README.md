@@ -45,7 +45,7 @@ From 2012 to 2017 I served as student's tutor for the courses of molecular genet
 
 #### - Scientific administration
 
-*I collaborated to the scientific and administrative secretary of these symposiums:*
+*I was a member of the scientific and administrative secretary of these symposiums:*
 
 Albert Schinzel "Congenital Developmental defects in Twins, Aetiology, Spectrum and Genetic Counseling" 19th April 2016, Residency program, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
 
