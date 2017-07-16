@@ -124,17 +124,17 @@ Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: “Infezioni materne come 
 
 ## Professional experience
 
-2012-2017: Resident, Medical Genetics. Residency program, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
+2012-2017: Resident Medical Doctor, Medical Genetics. Residency program, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
 
-2008–2012: Medical doctor, Internal Medicine. "Mater Dei" Hospital, "Paideia" Hospital, Rome, Italy.
+2008–2012: Medical Doctor, Internal Medicine. "Mater Dei" Hospital, "Paideia" Hospital, Rome, Italy.
 
-2008, June–August: Medical doctor, Progetto "Estate Sicura" *(Safe Summer Project)*. Emergency Department. "Grassi" NHS Hospital, Rome, Italy.
+2008, June–August: Medical Doctor, Progetto "Estate Sicura" *(Safe Summer Project)*. Emergency Department. "Grassi" NHS Hospital, Rome, Italy.
 
-2007-2008: Medical doctor: Hematology and Palliative Care, S.A.Ne.S. onlus (NGO) at "S. Camillo - Forlanini" NHS National relevant Hospital, Rome, Italy.
+2007-2008: Medical Doctor: Hematology and Palliative Care, S.A.Ne.S. onlus (NGO) at "S. Camillo - Forlanini" NHS National relevant Hospital, Rome, Italy.
 
 2007: Medical Doctor, Palliative Care. "S. Francesco Caracciolo" Hospice, Rome, Italy.
 
-**2007, March: Full member of the Board of Physicians of Rome, personal number: 55797/RM.**
+**2007, March: Full member of the Board of Physicians and Surgeons of Rome, personal number: 55797/RM.**
 
 ## Honors
 2012-2017: Italian National Healthcare System: National scholarship system for resident physicians.
@@ -190,7 +190,7 @@ Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: “Infezioni materne come 
 #### Courses
 IX Corso d'idoneità nazionale all'esercizio dell'Emergenza Sanitaria *(9th Italian NHS qualifying course and examination for pre-hospital emergency care)*, 2015, Azienda Sanitaria Provinciale, Catanzaro, Italy.
 
-Italian Resuscitation Council - BLS-D. Instructor #255209. Director: P. Basili; November 28th 2009. Rome, Italy.
+Italian Resuscitation Council - BLS-D. Instructor number: 255209. Director: P. Basili; November 28th 2009. Rome, Italy.
 
 6th Annual International Conference on Ovarian Cancer. Memorial Sloane Kettering, 2005, New York, NY, USA.
 
