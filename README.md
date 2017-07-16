@@ -107,7 +107,7 @@ Pulvirenti G, Vismara MFM, Rapetto U, Toaff J, Lavano MS, Zepponi B, Meschesi V,
 
 Vismara MFM, Meschesi V, Donato G: “The brave new pathology and its ethical issues”. UNESCO Chair in Bioethics 11TH World Conference on Bioethics, Medical Ethics, and Health Law, Naples, Italy; 10/2015 (lecture, speaker)
 
-Vismara MFM, Toaff J, Marotta R, Lavano SM, Settanni C, Colao E, Fabiani F, Bombardiere F, Villella C, Primerano P, Citriniti C, Micarelli L, Vitozzi M, Diatricch L, Cotugno D, Monti M, Bertinelli C, Rapetto U: “TEENAGERS AND INTERNET: A SURVEY ON ACCESS AND USE FOR RISK ASSESSMENT””. 7th Europaediatrics Congress, Florence, Italy; 05/2015 (lecture, speaker)
+Vismara MFM, Toaff J, Marotta R, Lavano SM, Settanni C, Colao E, Fabiani F, Bombardiere F, Villella C, Primerano P, Citriniti C, Micarelli L, Vitozzi M, Diatricch L, Cotugno D, Monti M, Bertinelli C, Rapetto U: “TEENAGERS AND INTERNET: A SURVEY ON ACCESS AND USE FOR RISK ASSESSMENT”. 7th Europaediatrics Congress, Florence, Italy; 05/2015 (lecture, speaker)
 
 #### -Posters
 
