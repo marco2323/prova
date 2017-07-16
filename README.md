@@ -2,7 +2,7 @@
 
 ## Personal information
 
-Born in Rome, Italy on March 7th 1981.
+Born March 7th 1981 in Rome, Italy.
 
 email: marco@vismara.info
 
@@ -16,13 +16,13 @@ email: marco@vismara.info
   Affiliate centers: "Aldo Moro" University of Bari, Italy; "Gabriele d'Annunzio" University of Chieti, Italy; "Magna Graecia" University of Catanzaro, Italy; "Sapienza" University of Rome, Italy. 
 * 2015: DIU in Classical and Molecular Cytogenetics. Paris Descartes, Montpellier1, and Nîmes Universities, France.
 * 2006: Medical Doctor. "Campus Bio-Medico" University of Rome, Italy.
-* 2000: High School license, Liceo Ginnasio Statale "L. Manara", Rome, Italy.
+* 2000: High School license, classic lyceum. Liceo Ginnasio Statale "L. Manara", Rome, Italy.
 
 ## Scientific production
 
 
 
-###  Medical genetics and Rare diseases
+### Medical genetics and Rare diseases
 
 #### - Papers
 
@@ -41,20 +41,19 @@ Colao E*, Granata T*, Vismara MFM*, Bombardiere F, Nocera D, Luciano E, Perrotti
 
 #### - Teaching
 
-From 2012 to 2017  I served as student's tutor for the courses of molecular genetics and clinical genetics held at "Magna Graecia" University of Catanzaro, Italy.
+From 2012 to 2017 I served as student's tutor for the courses of molecular genetics and clinical genetics held at the School of Medicine of "Magna Graecia" University of Catanzaro, Italy.
 
 #### - Scientific administration
 
 *I collaborated to the scientific and administrative secretary of these symposiums:*
 
+Albert Schinzel "Congenital Developmental defects in Twins, Aetiology, Spectrum and Genetic Counseling" 19th April 2016, Residency program, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
 
-Albert Shinzel "Congenital Developmental defects in Twins, Aetiology, Spectrum and Genetic Counseling" 19th April 2016, Residency program, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
+Albert Schinzel "Origin and Mechanisms of formation of chromosomal aberrations" 18th April 2016, Residency program, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
 
-Albert Shinzel "Origin and Mechanisms of formation of chromosomal aberrations" 18th April 2016, Residency program, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
+Albert Schinzel "Clinical Rounds: 'Meet the Professor'” 15th April 2016, Residency program, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
 
-Albert Shinzel "Clinical Rounds: 'Meet the Professor'” 15th April 2016, Residency programme, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
-
-Antonio Persico "Genetica dei Disordini dello Spettro Autistico" October 13th 2014, Residency programme, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
+Antonio Persico "Genetica dei Disordini dello Spettro Autistico *(Genetics of Autistic Spectrum Disorders)*" October 13th 2014, Residency program, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
 
 #### - Patents
 
@@ -62,13 +61,13 @@ Antonio Persico "Genetica dei Disordini dello Spettro Autistico" October 13th 20
 
 #### - Lectures
 
-Vismara MFM: Epatopatie di natura genetica: Epidemiologia, diagnosi e terapia *(Genetic diseases of the liver: epidemiology, diagnosis, and therapy)*. Corso di formazione in Epatologia per MMG, Lamezia Terme (CZ), Italy; 05/2014  (plenary lecture, speaker)
+Vismara MFM: “Epatopatie di natura genetica: Epidemiologia, diagnosi e terapia *(Genetic diseases of the liver: epidemiology, diagnosis, and therapy)*.” Corso di formazione in Epatologia per MMG, Lamezia Terme (CZ), Italy; 05/2014 (plenary lecture, speaker)
 
 #### - Posters
 
-Colao E, Vismara MFM, Grillone T, Bombardiere F, Fabiani F, Menniti M, Zucco R, Perrotti N, Iuliano R: Mutation of KRT5 in a familial form of generalized Epidermolysis Bullosa Simplex. Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
+Colao E, Vismara MFM, Grillone T, Bombardiere F, Fabiani F, Menniti M, Zucco R, Perrotti N, Iuliano R: “Mutation of KRT5 in a familial form of generalized Epidermolysis Bullosa Simplex.” Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
 
-Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani F, Perrotti, Colao E, Iuliano R: Individuazione di una nuova mutazione responsabile della Sindrome di Gitelman *(A new disease causative mutation of SLC12A3 gene in Gitelman's syndrome)*. Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
+Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani F, Perrotti, Colao E, Iuliano R:” Individuazione di una nuova mutazione responsabile della Sindrome di Gitelman *(A new disease causative mutation of SLC12A3 gene in Gitelman's syndrome)*". Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
 
 
 
@@ -85,9 +84,9 @@ Rigon G, Vallone C, Starita A, Vismara MFM, Ialongo P, Putignani L, Signore F. D
 
 #### - Lectures
 
-Vismara MFM: Book presentation: Gianni Bonadonna's "Una guerra da vincere". Book presentation, Istituto dei Tumori "Regina Elena", Rome, Italy; 05/2010 (invited plenary lecture, speaker)
+Vismara MFM: “La “guerra al cancro” dal punto di vista del giovane medico *(The “war on cancer” from a young physician point of view)*”. At: book presentation: Gianni Bonadonna's "Una guerra da vincere", Istituto dei Tumori "Regina Elena", Rome, Italy; 05/2010 (invited by the author, speaker)
 
-Rigon G, Vallone C, Putignani L, Vismara MFM, Angioli R, Signore F: Magnetic Resonance Imaging (MRI) in primary cancer staging. XIX Congresso Nazionale SIOG, Istituto Nazionale dei Tumori, Milan, Italy; 06/2007 (lecture)
+Rigon G, Vallone C, Putignani L, Vismara MFM, Angioli R, Signore F: “Magnetic Resonance Imaging (MRI) in primary cancer staging”. XIX Congresso Nazionale SIOG, Istituto Nazionale dei Tumori, Milan, Italy; 06/2007 (lecture)
 
 #### -Thesis
 "Ruolo della laparoscopia nella strategia terapeutica del carcinoma ovarico in fase avanzata: uno studio pilota. *(Role of laparoscopy in the therapeutical strategy of advanced ovarian cancer: a pilot study)*". MD Thesis, tutor: R. Angioli, 2006, "Campus Bio-Medico" University of Rome, Italy.
@@ -102,25 +101,25 @@ Vismara MFM+, Toaff J, Pulvirenti G, Settanni C, Colao E, Lavano SM, Cemicetti R
 
 #### - Lectures
 
-Vismara MFM, Donato G, Pulvirenti G, Meschesi V, Donato A, Donato F, Vismara SA. Incidental findings in exome and genome analysis: a proposal of comparison. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017  (lecture, speaker)
+Vismara MFM, Donato G, Pulvirenti G, Meschesi V, Donato A, Donato F, Vismara SA. “Incidental findings in exome and genome analysis: a proposal of comparison”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017  (lecture, speaker)
  
-Pulvirenti G, Vismara MFM, Rapetto U, Toaff J, Lavano MS, Zepponi B, Meschesi V, Settanni C, Vismara SA, Colao E, Peros G. Internet and adolescents: reflecting on data from a descriptive statistical analysis. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017 (lecture)
+Pulvirenti G, Vismara MFM, Rapetto U, Toaff J, Lavano MS, Zepponi B, Meschesi V, Settanni C, Vismara SA, Colao E, Peros G. “Internet and adolescents: reflecting on data from a descriptive statistical analysis”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017 (lecture)
 
-Vismara MFM, Meschesi V, Donato G: The brave new pathology and its ethical issues. UNESCO Chair in Bioethics 11TH World Conference on Bioethics, Medical Ethics, and Health Law, Naples, Italy; 10/2015 (lecture, speaker)
+Vismara MFM, Meschesi V, Donato G: “The brave new pathology and its ethical issues”. UNESCO Chair in Bioethics 11TH World Conference on Bioethics, Medical Ethics, and Health Law, Naples, Italy; 10/2015 (lecture, speaker)
 
-Vismara MFM, Toaff J, Marotta R, Lavano SM, Settanni C, Colao E, Fabiani F, Bombardiere F, Villella C, Primerano P, Citriniti C, Micarelli L, Vitozzi M, Diatricch L, Cotugno D, Monti M, Bertinelli C, Rapetto U: TEENAGERS AND INTERNET: A SURVEY ON ACCESS AND USE FOR RISK ASSESSMENT. 7th Europaediatrics Congress, Florence, Italy; 05/2015 (lecture, speaker)
+Vismara MFM, Toaff J, Marotta R, Lavano SM, Settanni C, Colao E, Fabiani F, Bombardiere F, Villella C, Primerano P, Citriniti C, Micarelli L, Vitozzi M, Diatricch L, Cotugno D, Monti M, Bertinelli C, Rapetto U: “TEENAGERS AND INTERNET: A SURVEY ON ACCESS AND USE FOR RISK ASSESSMENT””. 7th Europaediatrics Congress, Florence, Italy; 05/2015 (lecture, speaker)
 
 #### -Posters
 
-Donato F, Donato G, Donato A, Vismara MFM, Meschesi V, Pulvirenti G, Settanni C: Christian morality and sentimentalism: a common approach to bioethics? UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017 (poster)
+Donato F, Donato G, Donato A, Vismara MFM, Meschesi V, Pulvirenti G, Settanni C: “Christian morality and sentimentalism: a common approach to bioethics?”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017 (poster)
  
 ### Obstetrics and Gynecology
 #### -Lecture
 
-Saccucci P, Marino R, Vismara MFM, Guida C, Signore F: Laparoscopic procedure for removal of a "lost" intrauterine device. 15th International congress and endo expo. SLS Annual meeting, Boston, USA; 09/2006 (lecture)
+Saccucci P, Marino R, Vismara MFM, Guida C, Signore F: “Laparoscopic procedure for removal of a "lost" intrauterine device”. 15th International congress and endo expo. SLS Annual meeting, Boston, USA; 09/2006 (lecture)
 
 #### -Poster
-Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: Infezioni materne come indicazione all'ecocardiografia fetale. AGUI Congress, Rome, Italy; 07/2007 (poster)
+Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: “Infezioni materne come indicazione all'ecocardiografia fetale *(Maternal infections as indication for fetal echocardiography)*”. AGUI Congress, Rome, Italy; 07/2007 (poster)
 
 
 ## Professional experience
@@ -129,7 +128,7 @@ Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: Infezioni materne come ind
 
 2008–2012: Medical doctor, Internal Medicine. "Mater Dei" Hospital, "Paideia" Hospital, Rome, Italy.
 
-2008, June–August: Medical doctor, Progetto "Estate Sicura" (Safe Summer Project). Emergency Department. "Grassi" NHS Hospital, Rome, Italy.
+2008, June–August: Medical doctor, Progetto "Estate Sicura" *(Safe Summer Project)*. Emergency Department. "Grassi" NHS Hospital, Rome, Italy.
 
 2007-2008: Medical doctor: Hematology and Palliative Care, S.A.Ne.S. onlus (NGO) at "S.Camillo - Forlanini" NHS National relevant Hospital, Rome, Italy.
 
@@ -142,7 +141,7 @@ Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: Infezioni materne come ind
 
 2015-2016: Honorary lecturer in Pathology (appointed by the President of the School of Medicine) at "Magna Graecia" University of Catanzaro, Italy.
 
-2013: "Attestato di straordinario merito" issued by Telecom Italia vice-President U. Rapetto for "Anche io ho qualcosa da dire" project.
+2013: "Attestato di straordinario merito" issued by Telecom Italia vice-president U. Rapetto for "Anche io ho qualcosa da dire" project.
 
 2007-2008: Society for care and research on hematologic diseases (S.A.Ne.S. ONLUS) NGO: ”Francesca Magistri” memorial scholarship for hematology and palliative care.
 
@@ -203,6 +202,6 @@ E.C.A. European Cytogeneticists Association
 
 LIDU - Lega Italiana Diritti dell'Uomo | Italian chapter of the FIDH - International Federation for Human Rights.
 
-
+#
 
 
