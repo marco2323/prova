@@ -9,7 +9,7 @@ email: marco@vismara.info
 
 
 ## Education
-* 2017: Specialty in clinical and laboratory genetics. (5 years curriculum). Joint program.
+* 2017: Specialty in clinical and laboratory genetics. 5 years curriculum. 
 
   Coordinating center: "Tor Vergata" University of Rome, Italy. 
   
@@ -130,7 +130,7 @@ Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: “Infezioni materne come 
 
 2008, June–August: Medical doctor, Progetto "Estate Sicura" *(Safe Summer Project)*. Emergency Department. "Grassi" NHS Hospital, Rome, Italy.
 
-2007-2008: Medical doctor: Hematology and Palliative Care, S.A.Ne.S. onlus (NGO) at "S.Camillo - Forlanini" NHS National relevant Hospital, Rome, Italy.
+2007-2008: Medical doctor: Hematology and Palliative Care, S.A.Ne.S. onlus (NGO) at "S. Camillo - Forlanini" NHS National relevant Hospital, Rome, Italy.
 
 2007: Medical Doctor, Palliative Care. "S. Francesco Caracciolo" Hospice, Rome, Italy.
 
