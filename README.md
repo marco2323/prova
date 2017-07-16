@@ -127,13 +127,11 @@ Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: Infezioni materne come ind
 
 2012-2017: Resident, Medical Genetics. Residency program, medical genetics. "Tor Vergata" University of Rome, Italy. "Mater Domini" University Hospital of Catanzaro, Italy.
 
-2010–2012: Medical doctor, Sport medicine team. "SS Lazio" Football section, Rome, Italy. 
-
-2009–2012: Medical doctor, Internal Medicine. "Mater Dei" Hospital, "Paideia" Hospital, Rome, Italy.
+2008–2012: Medical doctor, Internal Medicine. "Mater Dei" Hospital, "Paideia" Hospital, Rome, Italy.
 
 2008, June–August: Medical doctor, Progetto "Estate Sicura" (Safe Summer Project). Emergency Department. "Grassi" NHS Hospital, Rome, Italy.
 
-2008: Medical doctor: Hematology and Palliative Care, S.A.Ne.S. onlus (NGO) at "S.Camillo - Forlanini" NHS National relevant Hospital, Rome, Italy.
+2007-2008: Medical doctor: Hematology and Palliative Care, S.A.Ne.S. onlus (NGO) at "S.Camillo - Forlanini" NHS National relevant Hospital, Rome, Italy.
 
 2007: Medical Doctor, Palliative Care. "S. Francesco Caracciolo" Hospice, Rome, Italy.
 
@@ -146,7 +144,7 @@ Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: Infezioni materne come ind
 
 2013: "Attestato di straordinario merito" issued by Telecom Italia vice-President U. Rapetto for "Anche io ho qualcosa da dire" project.
 
-2008-2009: Society for care and research on hematologic diseases (S.A.Ne.S. ONLUS) NGO: ”Francesca Magistri” memorial scholarship for hematology and palliative care.
+2007-2008: Society for care and research on hematologic diseases (S.A.Ne.S. ONLUS) NGO: ”Francesca Magistri” memorial scholarship for hematology and palliative care.
 
 ## Courses and Internships
 
@@ -173,6 +171,7 @@ Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: Infezioni materne come ind
 ### Clinical medicine
 
 #### Internships
+2008, May-2009, May:  Internship at the General Surgery, tutor: Enrico Sbaffi, "S. Pertini" NHS Hospital, Rome, Italy.
 
 2007, July-September: Internship at the Hyperbaric Medicine facility, tutor:  Calcedonio Gonzales, Landspítali University Hospital, Reykjavik, Iceland. 
 
