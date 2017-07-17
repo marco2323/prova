@@ -88,7 +88,7 @@ Vismara MFM: “La “guerra al cancro” dal punto di vista del giovane medico 
 
 Rigon G, Vallone C, Putignani L, Vismara MFM, Angioli R, Signore F: “Magnetic Resonance Imaging (MRI) in primary cancer staging”. XIX Congresso Nazionale SIOG, Istituto Nazionale dei Tumori, Milan, Italy; 06/2007 (lecture)
 
-#### -Thesis
+#### - Thesis
 "Ruolo della laparoscopia nella strategia terapeutica del carcinoma ovarico in fase avanzata: uno studio pilota. *(Role of laparoscopy in the therapeutical strategy of advanced ovarian cancer: a pilot study)*". MD Thesis, tutor: R. Angioli, 2006, "Campus Bio-Medico" University of Rome, Italy.
 
 ### Bioethics and social aspects of medicine
