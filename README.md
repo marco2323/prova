@@ -134,7 +134,7 @@ Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: “Infezioni materne come 
 
 2007: Medical Doctor, Palliative Care. "S. Francesco Caracciolo" Hospice, Rome, Italy.
 
-**2007, March: Full member of the Board of Physicians and Surgeons of Rome, personal number: 55797/RM.**
+**2007: March: Full member of the Board of Physicians and Surgeons of Rome, personal number: 55797/RM.**
 
 ## Honors
 2012-2017: Italian National Healthcare System: National scholarship system for resident physicians.
