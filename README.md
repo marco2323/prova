@@ -93,7 +93,7 @@ Rigon G, Vallone C, Putignani L, Vismara MFM, Angioli R, Signore F: “Magnetic 
 
 ### Bioethics and social aspects of medicine
 
-#### -Papers
+#### - Papers
 
 Vismara MFM+, Toaff J, Pulvirenti G, Settanni C, Colao E, Lavano SM, Cemicetti R, Cotugno D, Perrotti G, Meschesi V, Montera R, Rapetto U, Marotta R. Internet and adolescents: use and access, behavior, cyberbullying and grooming. Results of an investigative whole city survey. Interact J Med Res (forthcoming). doi:10.2196/ijmir.6231
 
@@ -109,16 +109,16 @@ Vismara MFM, Meschesi V, Donato G: “The brave new pathology and its ethical is
 
 Vismara MFM, Toaff J, Marotta R, Lavano SM, Settanni C, Colao E, Fabiani F, Bombardiere F, Villella C, Primerano P, Citriniti C, Micarelli L, Vitozzi M, Diatricch L, Cotugno D, Monti M, Bertinelli C, Rapetto U: “TEENAGERS AND INTERNET: A SURVEY ON ACCESS AND USE FOR RISK ASSESSMENT”. 7th Europaediatrics Congress, Florence, Italy; 05/2015 (lecture, speaker)
 
-#### -Posters
+#### - Posters
 
 Donato F, Donato G, Donato A, Vismara MFM, Meschesi V, Pulvirenti G, Settanni C: “Christian morality and sentimentalism: a common approach to bioethics?”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017 (poster)
  
 ### Obstetrics and Gynecology
-#### -Lecture
+#### - Lecture
 
 Saccucci P, Marino R, Vismara MFM, Guida C, Signore F: “Laparoscopic procedure for removal of a "lost" intrauterine device”. 15th International congress and endo expo. SLS Annual meeting, Boston, USA; 09/2006 (lecture)
 
-#### -Poster
+#### - Poster
 Marco MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: “Infezioni materne come indicazione all'ecocardiografia fetale *(Maternal infections as indication for fetal echocardiography)*”. AGUI Congress, Rome, Italy; 07/2007 (poster)
 
 
