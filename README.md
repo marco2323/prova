@@ -61,13 +61,13 @@ Antonio Persico "Genetica dei Disordini dello Spettro Autistico *(Genetics of Au
 
 #### - Lectures
 
-Vismara MFM: “Epatopatie di natura genetica: Epidemiologia, diagnosi e terapia *(Genetic diseases of the liver: epidemiology, diagnosis, and therapy)*.” Corso di formazione in Epatologia per MMG, Lamezia Terme (CZ), Italy; 05/2014 (plenary lecture, speaker)
+Vismara MFM: “Epatopatie di natura genetica: Epidemiologia, diagnosi e terapia *(Genetic diseases of the liver: epidemiology, diagnosis, and therapy)*”. Corso di formazione in Epatologia per MMG, Lamezia Terme (CZ), Italy; 05/2014 (plenary lecture, speaker)
 
 #### - Posters
 
-Colao E, Vismara MFM, Grillone T, Bombardiere F, Fabiani F, Menniti M, Zucco R, Perrotti N, Iuliano R: “Mutation of KRT5 in a familial form of generalized Epidermolysis Bullosa Simplex.” Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
+Colao E, Vismara MFM, Grillone T, Bombardiere F, Fabiani F, Menniti M, Zucco R, Perrotti N, Iuliano R: “Mutation of KRT5 in a familial form of generalized Epidermolysis Bullosa Simplex”. Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
 
-Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani F, Perrotti, Colao E, Iuliano R:” Individuazione di una nuova mutazione responsabile della Sindrome di Gitelman *(A new disease causative mutation of SLC12A3 gene in Gitelman's syndrome)*". Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
+Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani F, Perrotti, Colao E, Iuliano R: ”Individuazione di una nuova mutazione responsabile della Sindrome di Gitelman *(A new disease causative mutation of SLC12A3 gene in Gitelman's syndrome)*". Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
 
 
 
