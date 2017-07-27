@@ -69,7 +69,9 @@ Colao E, Vismara MFM, Grillone T, Bombardiere F, Fabiani F, Menniti M, Zucco R, 
 
 Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani F, Perrotti, Colao E, Iuliano R: ”Individuazione di una nuova mutazione responsabile della Sindrome di Gitelman *(A new disease causative mutation of SLC12A3 gene in Gitelman's syndrome)*". Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
 
+#### - Thesis
 
+"Clinical and molecular evaluation of a pediatric onset retinitis in a patient born to a consanguineous family". Specialty Thesis, tutor: N. Perrotti, 2017, "Tor Vergata" University of Rome, Italy.
 
 ### Cancer
 
