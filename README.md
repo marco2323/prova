@@ -36,6 +36,8 @@ Colao E*, Vismara MFM*, Bombardiere F, Fabiani F, Grillone T, Iuliano R, Luciano
  
 Colao E*, Granata T*, Vismara MFM*, Bombardiere F, Nocera D, Luciano E, Perrotti N, Malatesta P. A case of premature ovarian failure in a 33-year-old woman. Case Rep Genet. 2013;2013:573841. doi: 10.1155/2013/573841. Epub 2013 Jan 29. PubMed PMID: 23509644; PubMed Central PMCID: PMC3569886.
 
+Iuliano R, Vismara MFM, Dattilo V, Trapasso F, Baudi F, Perrotti N. The role of microRNAs in cancer susceptibility. Biomed Res Int. 2013;2013:591931. doi:10.1155/2013/591931. Epub 2013 Mar 19. Review. PubMed PMID: 23586049; PubMed Central PMCID: PMC3615597.
+
 \* *co-first authors*
 
 
@@ -61,6 +63,8 @@ Antonio Persico "Genetica dei Disordini dello Spettro Autistico *(Genetics of Au
 
 #### - Lectures
 
+Vismara MFM, Donato G, Pulvirenti G, Meschesi V, Donato A, Donato F, Vismara SA. “Incidental findings in exome and genome analysis: a proposal of comparison”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017  (lecture, speaker)
+
 Vismara MFM: “Epatopatie di natura genetica: Epidemiologia, diagnosi e terapia *(Genetic diseases of the liver: epidemiology, diagnosis, and therapy)*”. Corso di formazione in Epatologia per MMG, Lamezia Terme (CZ), Italy; 05/2014 (plenary lecture, speaker)
 
 #### - Posters
@@ -79,8 +83,6 @@ Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani 
 #### - Papers
 
 Mignogna C, Signorelli F, Vismara MFM, Zeppa P, Camastra C, Barni T, Donato G, Di Vito A. A reappraisal of macrophage polarization in glioblastoma: Histopathological and immunohistochemical findings and review of the literature. Pathol Res Pract. 2016 Jun;212(6):491-9. doi: 10.1016/j.prp.2016.02.020. Epub 2016 Feb 24. PubMed PMID: 27101800.
-
-Iuliano R, Vismara MFM, Dattilo V, Trapasso F, Baudi F, Perrotti N. The role of microRNAs in cancer susceptibility. Biomed Res Int. 2013;2013:591931. doi:10.1155/2013/591931. Epub 2013 Mar 19. Review. PubMed PMID: 23586049; PubMed Central PMCID: PMC3615597.
 
 Rigon G, Vallone C, Starita A, Vismara MFM, Ialongo P, Putignani L, Signore F. Diagnostic Accuracy of MRI in Primary Cervical Cancer. Open J Radiology 01/2012; 2(01), doi: 10.4236/ojrad.2012.21003
 
@@ -102,8 +104,6 @@ Vismara MFM+, Toaff J, Pulvirenti G, Settanni C, Colao E, Lavano SM, Cemicetti R
 *+ corresponding author*
 
 #### - Lectures
-
-Vismara MFM, Donato G, Pulvirenti G, Meschesi V, Donato A, Donato F, Vismara SA. “Incidental findings in exome and genome analysis: a proposal of comparison”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017  (lecture, speaker)
  
 Pulvirenti G, Vismara MFM, Rapetto U, Toaff J, Lavano MS, Zepponi B, Meschesi V, Settanni C, Vismara SA, Colao E, Peros G. “Internet and adolescents: reflecting on data from a descriptive statistical analysis”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017 (lecture)
 
