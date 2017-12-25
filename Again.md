@@ -97,7 +97,7 @@ Antonio Persico "Genetica dei Disordini dello Spettro Autistico *(Genetics of Au
 
 "Clinical and molecular evaluation of a pediatric onset retinitis in a patient born to a consanguineous family". Specialty Thesis, tutor: N. Perrotti, 2017, "Tor Vergata" University of Rome, Italy.
 
-"Chromosome 15q proximal gains: case series from a single institution" Capstone project for DIU classical and molecular cytogenetics, tutor: N. de Leeuwe, 2015, Paris Descartes, Montpellier1, and Nimes Universities, France. 
+"Chromosome 15q proximal gains: case series from a single institution" Capstone project for DIU classical and molecular cytogenetics, tutor: N. de Leeuw, 2015, Paris Descartes, Montpellier1, and Nimes Universities, France. 
 
 "Ruolo della laparoscopia nella strategia terapeutica del carcinoma ovarico in fase avanzata: uno studio pilota. *(Role of laparoscopy in the therapeutical strategy of advanced ovarian cancer: a pilot study)*". MD Thesis, tutor: R. Angioli, 2006, "Campus Bio-Medico" University of Rome, Italy.
 
