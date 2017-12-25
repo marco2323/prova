@@ -8,7 +8,7 @@ email: marco@vismara.info
 
 ## Education
 
-* 2018 (expected): PhD in Medical Genetics "Sapienza" University of Rome, Italy.
+* 2018 (expected): PhD in Human Biology and Medical Genetics, Medical Genetics Curriculum, XXVI Cycle. BeMM PhD School, "Sapienza" University of Rome, Italy.
 * 2017: Specialty *cum laude* in Clinical and Laboratory Genetics. 5 years curriculum. Coordinating center: "Tor Vergata" University of Rome, Italy. Affiliate centers: "Aldo Moro" University of Bari, Italy; "Gabriele d'Annunzio" University of Chieti, Italy; "Magna Graecia" University of Catanzaro, Italy; "Sapienza" University of Rome, Italy. 
 * 2015: DIU in Classical and Molecular Cytogenetics. Paris Descartes, Montpellier1, and Nîmes Universities, France.
 * 2006: Medical Doctor. "Campus Bio-Medico" University of Rome, Italy.
@@ -51,7 +51,7 @@ Vismara MFM, Toaff J, Marotta R, Lavano SM, Settanni C, Colao E, Fabiani F, Bomb
 
 Vismara MFM: “Epatopatie di natura genetica: Epidemiologia, diagnosi e terapia *(Genetic diseases of the liver: epidemiology, diagnosis, and therapy)*”. Corso di formazione in Epatologia per MMG, Lamezia Terme (CZ), Italy; 05/2014 (plenary lecture, speaker)
  
-Vismara MFM: “La “guerra al cancro” dal punto di vista del giovane medico *(The “war on cancer” from a young physician point of view)*”. At: book presentation: Gianni Bonadonna's "Una guerra da vincere", Istituto dei Tumori "Regina Elena", Rome, Italy; 05/2010 (invited by the author, speaker)
+Vismara MFM: “La “guerra al cancro” dal punto di vista del giovane medico *(The “war on cancer” from a young physician point of view)*”. At: book presentation: Gianni Bonadonna's "Una guerra da vincere", Istituto dei Tumori "Regina Elena", Rome, Italy; 05/2010 (invited by Dr. Bonadonna, speaker)
 
 Rigon G, Vallone C, Putignani L, Vismara MFM, Angioli R, Signore F: “Magnetic Resonance Imaging (MRI) in primary cancer staging”. XIX Congresso Nazionale SIOG, Istituto Nazionale dei Tumori, Milan, Italy; 06/2007 (lecture)
 
@@ -59,23 +59,23 @@ Saccucci P, Marino R, Vismara MFM, Guida C, Signore F: “Laparoscopic procedure
 
 #### - Posters
 
-IL POSTER DELLA CONCO
+Vismara MFM, Scionti F, Pensabene L, Roppa K, Romano G, Ceravolo M, Concolino D: "NOVEL PATHOGENIC MICRO-CNV IN CHROMOSOME 2q13, PRESENTATION OF A DELETION AND A DUPLICATION AFFECTING THE SAME REGION IN TWO UNRELATED PATIENTS". 10th AfSHG Meeting, El-Cairo, Egtpt; 11/2017 (invited)
 
-IL POSTER DI Stephan
+Fry SN, Vismara MFM, Neuhauss SCF: "Real time 3d tracking of multiple fish (#9)" International Workshop on Zebrafish Neural circuits and behaviour, Rockville (MD), USA; 11/2017
 
-Donato F, Donato G, Donato A, Vismara MFM, Meschesi V, Pulvirenti G, Settanni C: “Christian morality and sentimentalism: a common approach to bioethics?”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017 (poster)
+Donato F, Donato G, Donato A, Vismara MFM, Meschesi V, Pulvirenti G, Settanni C: “Christian morality and sentimentalism: a common approach to bioethics?”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017
 
-Colao E, Vismara MFM, Grillone T, Bombardiere F, Fabiani F, Menniti M, Zucco R, Perrotti N, Iuliano R: “Mutation of KRT5 in a familial form of generalized Epidermolysis Bullosa Simplex”. Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
+Colao E, Vismara MFM, Grillone T, Bombardiere F, Fabiani F, Menniti M, Zucco R, Perrotti N, Iuliano R: “Mutation of KRT5 in a familial form of generalized Epidermolysis Bullosa Simplex”. Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016
 
-Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani F, Perrotti, Colao E, Iuliano R: ”Individuazione di una nuova mutazione responsabile della Sindrome di Gitelman *(A new disease causative mutation of SLC12A3 gene in Gitelman's syndrome)*". Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016 (poster)
+Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani F, Perrotti, Colao E, Iuliano R: ”Individuazione di una nuova mutazione responsabile della Sindrome di Gitelman *(A new disease causative mutation of SLC12A3 gene in Gitelman's syndrome)*". Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016
 
-Vismara MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: “Infezioni materne come indicazione all'ecocardiografia fetale *(Maternal infections as indication for fetal echocardiography)*”. AGUI Congress, Rome, Italy; 07/2007 (poster)
+Vismara MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: “Infezioni materne come indicazione all'ecocardiografia fetale *(Maternal infections as indication for fetal echocardiography)*”. AGUI Congress, Rome, Italy; 07/2007
 
-IL POSTER DI KELLER
+FU Keller. A Anselmi, MFM Vismara: "Cellule staminali: neurogenesi e neuroplasticità nel sistema nervoso adulto *(Stem cells: neurogenesis and neuro-plasticity in adult central nervous system)*". Campus Bio Bedico Opening Day, Rome, Italy; 10/2005
 
 #### - Patents
 
-“Sistema e metodo di acquisizione, trasmissione ed elaborazione dati ematochimici *(System and method of acquisition, transmission, and elaboration of blood chemical data)*”. Applicant: Marco Flavio Michele Vismara File number: 102016000103909 Depot date: 17.10.2016. Ufficio Italiano Brevetti e Marchi, Italy. 
+“Sistema e metodo di acquisizione, trasmissione ed elaborazione dati ematochimici *(System and method of acquisition, transmission, and elaboration of blood chemical data)*”. Applicant: Marco Flavio Michele Vismara; File number: 102016000103909; Depot date: 17.10.2016. Ufficio Italiano Brevetti e Marchi, Italy. 
 
 #### - Teaching
 
@@ -96,7 +96,9 @@ Antonio Persico "Genetica dei Disordini dello Spettro Autistico *(Genetics of Au
 #### - Thesis
 
 "Clinical and molecular evaluation of a pediatric onset retinitis in a patient born to a consanguineous family". Specialty Thesis, tutor: N. Perrotti, 2017, "Tor Vergata" University of Rome, Italy.
-LA TESI CON NICOLE
+
+"Chromosome 15q proximal gains: case series from a single institution" Capstone project for DIU classical and molecular cytogenetics, tutor: N. de Leeuwe, 2015, Paris Descartes, Montpellier1, and Nimes Universities, France. 
+
 "Ruolo della laparoscopia nella strategia terapeutica del carcinoma ovarico in fase avanzata: uno studio pilota. *(Role of laparoscopy in the therapeutical strategy of advanced ovarian cancer: a pilot study)*". MD Thesis, tutor: R. Angioli, 2006, "Campus Bio-Medico" University of Rome, Italy.
 
 ## Professional experience
