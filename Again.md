@@ -9,9 +9,7 @@ email: marco@vismara.info
 ## Education
 
 * 2018 (expected): PhD in Medical Genetics "Sapienza" University of Rome, Italy.
-* 2017: Specialty cum laude in Clinical and Laboratory Genetics. 5 years curriculum. 
-  Coordinating center: "Tor Vergata" University of Rome, Italy. 
-  Affiliate centers: "Aldo Moro" University of Bari, Italy; "Gabriele d'Annunzio" University of Chieti, Italy; "Magna Graecia" University of Catanzaro, Italy; "Sapienza" University of Rome, Italy. 
+* 2017: Specialty *cum laude* in Clinical and Laboratory Genetics. 5 years curriculum. Coordinating center: "Tor Vergata" University of Rome, Italy. Affiliate centers: "Aldo Moro" University of Bari, Italy; "Gabriele d'Annunzio" University of Chieti, Italy; "Magna Graecia" University of Catanzaro, Italy; "Sapienza" University of Rome, Italy. 
 * 2015: DIU in Classical and Molecular Cytogenetics. Paris Descartes, Montpellier1, and Nîmes Universities, France.
 * 2006: Medical Doctor. "Campus Bio-Medico" University of Rome, Italy.
 * 2000: High School license, classic lyceum. Liceo Ginnasio Statale "L. Manara", Rome, Italy.
