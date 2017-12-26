@@ -51,7 +51,7 @@ Vismara MFM, Toaff J, Marotta R, Lavano SM, Settanni C, Colao E, Fabiani F, Bomb
 
 Vismara MFM: “Epatopatie di natura genetica: Epidemiologia, diagnosi e terapia *(Genetic diseases of the liver: epidemiology, diagnosis, and therapy)*”. Corso di formazione in Epatologia per MMG, Lamezia Terme (CZ), Italy; 05/2014 (plenary lecture, speaker)
  
-Vismara MFM: “La “guerra al cancro” dal punto di vista del giovane medico *(The “war on cancer” from a young physician point of view)*”. At: book presentation: Gianni Bonadonna's "Una guerra da vincere", Istituto dei Tumori "Regina Elena", Rome, Italy; 05/2010 (invited by Dr. Bonadonna, speaker)
+Vismara MFM: “La “guerra al cancro” dal punto di vista del giovane medico *(The “war on cancer” from a young physician point of view)*”. At: book presentation: Gianni Bonadonna's "Una guerra da vincere", Istituto dei Tumori "Regina Elena", Rome, Italy; 05/2010 (plenary lecture, invited speaker)
 
 Rigon G, Vallone C, Putignani L, Vismara MFM, Angioli R, Signore F: “Magnetic Resonance Imaging (MRI) in primary cancer staging”. XIX Congresso Nazionale SIOG, Istituto Nazionale dei Tumori, Milan, Italy; 06/2007 (lecture)
 
