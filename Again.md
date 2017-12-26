@@ -69,7 +69,7 @@ Colao E, Vismara MFM, Grillone T, Bombardiere F, Fabiani F, Menniti M, Zucco R, 
 
 Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani F, Perrotti, Colao E, Iuliano R: ”Individuazione di una nuova mutazione responsabile della Sindrome di Gitelman *(A new disease causative mutation of SLC12A3 gene in Gitelman's syndrome)*". Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016
 
-Vismara MFM, Madonna Terracina G, Pizzullo S, Cosmi EV: “Infezioni materne come indicazione all'ecocardiografia fetale *(Maternal infections as indication for fetal echocardiography)*”. AGUI Congress, Rome, Italy; 07/2007
+Cosmi EV, Vismara MFM, Madonna Terracina G, Pizzullo S: “Infezioni materne come indicazione all'ecocardiografia fetale *(Maternal infections as indication for fetal echocardiography)*”. AGUI Congress, Rome, Italy; 07/2007
 
 FU Keller. A Anselmi, MFM Vismara: "Cellule staminali: neurogenesi e neuroplasticità nel sistema nervoso adulto *(Stem cells: neurogenesis and neuro-plasticity in adult central nervous system)*". Campus Bio Bedico Opening Day, Rome, Italy; 10/2005
 
@@ -126,7 +126,7 @@ Antonio Persico "Genetica dei Disordini dello Spettro Autistico *(Genetics of Au
 
 ## Courses and Internships
 
-### Medical genetics
+### Genetics
 #### Internships
 
 2016, November- 2017, December: Internship at the Institute of Molecular Life Science, Neurobiology Laboratory, tutor: Stephan Neuhauss, University of Zurich, Zurich, Switzerland. 
