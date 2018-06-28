@@ -1,5 +1,6 @@
 # Marco Flavio Michele Vismara | Curriculum vitae
 
+Aggiungere brevetto PCA, poters ESHG 2018, iscrizione ASHG AfSHG
 ## Personal information
 
 Born March 7th 1981 in Rome, Italy.
