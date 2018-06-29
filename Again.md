@@ -1,6 +1,7 @@
 # Marco Flavio Michele Vismara | Curriculum vitae
 
-Aggiungere brevetto PCA, poters ESHG 2018 (CNV, wes), iscrizione ASHG AfSHG, aggiunta lab neuhauss, borsa svizzera
+Aggiungere brevetto PCA, poters ESHG 2018 (CNV, wes), iscrizione ASHG AfSHG, aggiunta lab neuhauss, borsa svizzera, internato berger?
+
 ## Personal information
 
 Born March 7th 1981 in Rome, Italy.
