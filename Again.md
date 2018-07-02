@@ -1,6 +1,6 @@
 # Marco Flavio Michele Vismara | Curriculum vitae
 
-Aggiungere brevetto PCA, poters ESHG 2018 (CNV, wes), iscrizione ASHG AfSHG, aggiunta lab neuhauss, borsa svizzera, internato berger?, poster marotta sinpia, togliere (lecture), cambiare nome liceo
+Aggiungere brevetto PCA, poters ESHG 2018 (CNV, wes) e poster gerusalemme, iscrizione ASHG AfSHG, aggiunta lab neuhauss, borsa svizzera, internato berger?, poster marotta sinpia, togliere (lecture), cambiare nome liceo
 
 ## Personal information
 
