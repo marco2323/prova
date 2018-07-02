@@ -1,6 +1,6 @@
 # Marco Flavio Michele Vismara | Curriculum vitae
 
-Aggiungere brevetto PCA, poters ESHG 2018 (CNV, wes), iscrizione ASHG AfSHG, aggiunta lab neuhauss, borsa svizzera, internato berger?
+Aggiungere brevetto PCA, poters ESHG 2018 (CNV, wes), iscrizione ASHG AfSHG, aggiunta lab neuhauss, borsa svizzera, internato berger?, poster marotta sinpia
 
 ## Personal information
 
@@ -146,7 +146,7 @@ Antonio Persico "Genetica dei Disordini dello Spettro Autistico *(Genetics of Au
 
 9th Course in clinical cytogenetics. Director: Pr. A. Schinzel. 2014, Goldrain, Italy.
 
-15th Advanced postgraduate course in classical and molecular cytogenetics. Directors: Pr. JM Dupont; Pr. T. Lavabre-Bertrand. 2013, Nîmes , France.
+15th Advanced postgraduate course in classical and molecular cytogenetics. Directors: Pr. JM Dupont; Pr. T. Lavabre-Bertrand. 2013, Nîmes, France.
 
 ### Clinical medicine
 
