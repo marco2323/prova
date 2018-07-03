@@ -1,6 +1,14 @@
 # Marco Flavio Michele Vismara | Curriculum vitae
 
-Aggiungere brevetto PCA, poters ESHG 2018 (CNV, wes) e poster gerusalemme, iscrizione ASHG AfSHG, aggiunta lab neuhauss, borsa svizzera, internato berger?, poster marotta sinpia, togliere (lecture), cambiare nome liceo
+Aggiungere brevetto PCA, 
+
+aggiunta lab neuhauss 
+internato berger?
+
+borsa svizzera SEMP 
+
+
+
 
 ## Personal information
 
@@ -14,7 +22,7 @@ email: marco@vismara.info
 * 2017: Specialty *cum laude* in Clinical and Laboratory Genetics. 5 years curriculum. Coordinating center: "Tor Vergata" University of Rome, Italy. Affiliate centers: "Aldo Moro" University of Bari, Italy; "Gabriele d'Annunzio" University of Chieti, Italy; "Magna Graecia" University of Catanzaro, Italy; "Sapienza" University of Rome, Italy. 
 * 2015: DIU in Classical and Molecular Cytogenetics. Paris Descartes, Montpellier1, and Nîmes Universities, France.
 * 2006: Medical Doctor. "Campus Bio-Medico" University of Rome, Italy.
-* 2000: High School license, classic lyceum. Liceo Ginnasio Statale "L. Manara", Rome, Italy.
+* 2000: High School license, classical lyceum. Liceo Ginnasio Statale "L. Manara", Rome, Italy.
 
 ## Scientific production
 
@@ -43,27 +51,35 @@ Rigon G, Vallone C, Starita A, Vismara MFM, Ialongo P, Putignani L, Signore F. D
 
 #### - Lectures
 
-Vismara MFM, Donato G, Pulvirenti G, Meschesi V, Donato A, Donato F, Vismara SA. “Incidental findings in exome and genome analysis: a proposal of comparison”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017  (lecture, speaker)
+Vismara MFM, Donato G, Pulvirenti G, Meschesi V, Donato A, Donato F, Vismara SA. “Incidental findings in exome and genome analysis: a proposal of comparison”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017  (speaker)
 
 Pulvirenti G, Vismara MFM, Rapetto U, Toaff J, Lavano MS, Zepponi B, Meschesi V, Settanni C, Vismara SA, Colao E, Peros G. “Internet and adolescents: reflecting on data from a descriptive statistical analysis”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017 (lecture)
 
-Vismara MFM, Meschesi V, Donato G: “The brave new pathology and its ethical issues”. UNESCO Chair in Bioethics 11TH World Conference on Bioethics, Medical Ethics, and Health Law, Naples, Italy; 10/2015 (lecture, speaker)
+Vismara MFM, Meschesi V, Donato G: “The brave new pathology and its ethical issues”. UNESCO Chair in Bioethics 11TH World Conference on Bioethics, Medical Ethics, and Health Law, Naples, Italy; 10/2015 (speaker)
 
-Vismara MFM, Toaff J, Marotta R, Lavano SM, Settanni C, Colao E, Fabiani F, Bombardiere F, Villella C, Primerano P, Citriniti C, Micarelli L, Vitozzi M, Diatricch L, Cotugno D, Monti M, Bertinelli C, Rapetto U: “TEENAGERS AND INTERNET: A SURVEY ON ACCESS AND USE FOR RISK ASSESSMENT”. 7th Europaediatrics Congress, Florence, Italy; 05/2015 (lecture, speaker)
+Vismara MFM, Toaff J, Marotta R, Lavano SM, Settanni C, Colao E, Fabiani F, Bombardiere F, Villella C, Primerano P, Citriniti C, Micarelli L, Vitozzi M, Diatricch L, Cotugno D, Monti M, Bertinelli C, Rapetto U: “TEENAGERS AND INTERNET: A SURVEY ON ACCESS AND USE FOR RISK ASSESSMENT”. 7th Europaediatrics Congress, Florence, Italy; 05/2015 (speaker)
 
 Vismara MFM: “Epatopatie di natura genetica: Epidemiologia, diagnosi e terapia *(Genetic diseases of the liver: epidemiology, diagnosis, and therapy)*”. Corso di formazione in Epatologia per MMG, Lamezia Terme (CZ), Italy; 05/2014 (plenary lecture, speaker)
  
 Vismara MFM: “La “guerra al cancro” dal punto di vista del giovane medico *(The “war on cancer” from a young physician point of view)*”. At: book presentation: Gianni Bonadonna's "Una guerra da vincere", Istituto dei Tumori "Regina Elena", Rome, Italy; 05/2010 (plenary lecture, invited speaker)
 
-Rigon G, Vallone C, Putignani L, Vismara MFM, Angioli R, Signore F: “Magnetic Resonance Imaging (MRI) in primary cancer staging”. XIX Congresso Nazionale SIOG, Istituto Nazionale dei Tumori, Milan, Italy; 06/2007 (lecture)
+Rigon G, Vallone C, Putignani L, Vismara MFM, Angioli R, Signore F: “Magnetic Resonance Imaging (MRI) in primary cancer staging”. XIX Congresso Nazionale SIOG, Istituto Nazionale dei Tumori, Milan, Italy; 06/2007 
 
-Saccucci P, Marino R, Vismara MFM, Guida C, Signore F: “Laparoscopic procedure for removal of a "lost" intrauterine device”. 15th International congress and endo expo. SLS Annual meeting, Boston, USA; 09/2006 (lecture)
+Saccucci P, Marino R, Vismara MFM, Guida C, Signore F: “Laparoscopic procedure for removal of a "lost" intrauterine device”. 15th International congress and endo expo. SLS Annual meeting, Boston, USA; 09/2006 
 
 #### - Posters
+Expanding knowledge in Internet behaviours: a focus on cyberbullying in italian High Scool. Meschesi V, Vismara MFM, Moroni V, Coltrinari L, Marotta R, Rapetto U, Vismara RE, Toaff J, Pulvirenti G, Settanni C, Lavano SM, Meschesi E. UNESCO Chair in Bioethics 13TH World Conference on Bioethics, Medical Ethics, and Health Law, Jerusalem, Israel; 11/2018 (Accepted)
+
+E-P09.16 - Behavioral phenotype related to CNV in 2q13: report of one patient affected by duplication and a patient carrying a deletion
+Vismara MFM, Scionti F, Pensabene L, Roppa K, Romano G, Ceravolo M, Concolino D; 52nd European Human Genetics Conference, Milan, Italy; 06/18 
+P20.06B / B - Incidental findings in genetic testing: a comparison between US and european guidelines and a bioethical reflection
+Vismara MFM, Meschesi V, Pulvirenti G, Donato A, Vismara SA, Zepponi B, Settanni C, Donato F, Coltrinari L, Moroni V, Valentini A, Toaff J, Donato G; 52nd European Human Genetics Conference, Milan, Italy; 06/18
 
 Vismara MFM, Scionti F, Pensabene L, Roppa K, Romano G, Ceravolo M, Concolino D: "NOVEL PATHOGENIC MICRO-CNV IN CHROMOSOME 2q13, PRESENTATION OF A DELETION AND A DUPLICATION AFFECTING THE SAME REGION IN TWO UNRELATED PATIENTS". 10th AfSHG Meeting, El-Cairo, Egtpt; 11/2017 (invited)
 
 Fry SN, Vismara MFM, Neuhauss SCF: "Real time 3d tracking of multiple fish (#9)" International Workshop on Zebrafish Neural circuits and behaviour, Rockville (MD), USA; 11/2017
+
+Internet and Adolescents: use and access, behavior, cyberbullyng and grooming: results of an investigative whole city survey. Marotta R, Lavano F, Lavano SM, Marotta O, Vismara MFM 28° Congresso Nazionale SINPIA, Napoli, Italy; 10/2017
 
 Donato F, Donato G, Donato A, Vismara MFM, Meschesi V, Pulvirenti G, Settanni C: “Christian morality and sentimentalism: a common approach to bioethics?”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017
 
@@ -174,6 +190,10 @@ Italian Resuscitation Council - BLS-D. Instructor number: 255209. Director: P. B
 6th Annual International Conference on Ovarian Cancer. Memorial Sloane Kettering, 2005, New York, NY, USA.
 
 ## Memberships 
+A.S.H.G. American Society of Human Genetics
+
+Af.S.H.G. African Society of Human Genetics
+
 E.S.H.G. European Society of Human Genetics
 
 E.C.A. European Cytogeneticists Association
