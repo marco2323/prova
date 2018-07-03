@@ -72,6 +72,7 @@ Expanding knowledge in Internet behaviours: a focus on cyberbullying in italian 
 
 E-P09.16 - Behavioral phenotype related to CNV in 2q13: report of one patient affected by duplication and a patient carrying a deletion
 Vismara MFM, Scionti F, Pensabene L, Roppa K, Romano G, Ceravolo M, Concolino D; 52nd European Human Genetics Conference, Milan, Italy; 06/18 
+
 P20.06B / B - Incidental findings in genetic testing: a comparison between US and european guidelines and a bioethical reflection
 Vismara MFM, Meschesi V, Pulvirenti G, Donato A, Vismara SA, Zepponi B, Settanni C, Donato F, Coltrinari L, Moroni V, Valentini A, Toaff J, Donato G; 52nd European Human Genetics Conference, Milan, Italy; 06/18
 
