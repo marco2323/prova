@@ -69,25 +69,23 @@ Rigon G, Vallone C, Putignani L, Vismara MFM, Angioli R, Signore F: “Magnetic 
 Saccucci P, Marino R, Vismara MFM, Guida C, Signore F: “Laparoscopic procedure for removal of a "lost" intrauterine device”. 15th International congress and endo expo. SLS Annual meeting, Boston, USA; 09/2006 
 
 #### - Posters
-Expanding knowledge in Internet behaviours: a focus on cyberbullying in italian High Scool. Meschesi V, Vismara MFM, Moroni V, Coltrinari L, Marotta R, Rapetto U, Vismara RE, Toaff J, Pulvirenti G, Settanni C, Lavano SM, Meschesi E. UNESCO Chair in Bioethics 13TH World Conference on Bioethics, Medical Ethics, and Health Law, Jerusalem, Israel; 11/2018 (Accepted)
+Meschesi V, Vismara MFM, Moroni V, Coltrinari L, Marotta R, Rapetto U, Vismara RE, Toaff J, Pulvirenti G, Settanni C, Lavano SM, Meschesi E. "Expanding knowledge in Internet behaviours: a focus on cyberbullying in italian High Scool". UNESCO Chair in Bioethics 13TH World Conference on Bioethics, Medical Ethics, and Health Law, Jerusalem, Israel; 11/2018 (Accepted)
 
-E-P09.16 - Behavioral phenotype related to CNV in 2q13: report of one patient affected by duplication and a patient carrying a deletion
-Vismara MFM, Scionti F, Pensabene L, Roppa K, Romano G, Ceravolo M, Concolino D; 52nd European Human Genetics Conference, Milan, Italy; 06/18 
+Vismara MFM, Scionti F, Pensabene L, Roppa K, Romano G, Ceravolo M, Concolino D: "E-P09.16 - Behavioral phenotype related to CNV in 2q13: report of one patient affected by duplication and a patient carrying a deletion". 52nd European Human Genetics Conference, Milan, Italy; 06/18
 
-P20.06B / B - Incidental findings in genetic testing: a comparison between US and european guidelines and a bioethical reflection
-Vismara MFM, Meschesi V, Pulvirenti G, Donato A, Vismara SA, Zepponi B, Settanni C, Donato F, Coltrinari L, Moroni V, Valentini A, Toaff J, Donato G; 52nd European Human Genetics Conference, Milan, Italy; 06/18
+Vismara MFM, Meschesi V, Pulvirenti G, Donato A, Vismara SA, Zepponi B, Settanni C, Donato F, Coltrinari L, Moroni V, Valentini A, Toaff J, Donato G: "P20.06B / B - Incidental findings in genetic testing: a comparison between US and european guidelines and a bioethical reflection". 52nd European Human Genetics Conference, Milan, Italy; 06/18
 
-Vismara MFM, Scionti F, Pensabene L, Roppa K, Romano G, Ceravolo M, Concolino D: "NOVEL PATHOGENIC MICRO-CNV IN CHROMOSOME 2q13, PRESENTATION OF A DELETION AND A DUPLICATION AFFECTING THE SAME REGION IN TWO UNRELATED PATIENTS". 10th AfSHG Meeting, El-Cairo, Egtpt; 11/2017 (invited)
+Vismara MFM, Scionti F, Pensabene L, Roppa K, Romano G, Ceravolo M, Concolino D: "Novel pathogenic micro-cnv in chromosome 2q13, presentation of a deletion and a duplication affecting the same region in two unrelated patients". 10th AfSHG Meeting, El-Cairo, Egtpt; 11/2017 (invited)
 
 Fry SN, Vismara MFM, Neuhauss SCF: "Real time 3d tracking of multiple fish (#9)" International Workshop on Zebrafish Neural circuits and behaviour, Rockville (MD), USA; 11/2017
 
-Internet and Adolescents: use and access, behavior, cyberbullyng and grooming: results of an investigative whole city survey. Marotta R, Lavano F, Lavano SM, Marotta O, Vismara MFM 28° Congresso Nazionale SINPIA, Napoli, Italy; 10/2017
+Marotta R, Lavano F, Lavano SM, Marotta O, Vismara MFM. "Internet and Adolescents: use and access, behavior, cyberbullyng and grooming: results of an investigative whole city survey". 28° Congresso Nazionale SINPIA, Naples, Italy; 10/2017
 
 Donato F, Donato G, Donato A, Vismara MFM, Meschesi V, Pulvirenti G, Settanni C: “Christian morality and sentimentalism: a common approach to bioethics?”. UNESCO Chair in Bioethics 12TH World Conference on Bioethics, Medical Ethics, and Health Law, Limassol, Cyprus; 03/2017
 
-Colao E, Vismara MFM, Grillone T, Bombardiere F, Fabiani F, Menniti M, Zucco R, Perrotti N, Iuliano R: “Mutation of KRT5 in a familial form of generalized Epidermolysis Bullosa Simplex”. Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016
+Colao E, Vismara MFM, Grillone T, Bombardiere F, Fabiani F, Menniti M, Zucco R, Perrotti N, Iuliano R: “Mutation of KRT5 in a familial form of generalized Epidermolysis Bullosa Simplex”. XIX SIGU (Società Italiana di Genetica Medica) national meeting, Turin, Italy; 01/2016
 
-Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani F, Perrotti, Colao E, Iuliano R: ”Individuazione di una nuova mutazione responsabile della Sindrome di Gitelman *(A new disease causative mutation of SLC12A3 gene in Gitelman's syndrome)*". Società Italiana di Genetica Medica - SIGU, Turin, Italy; 01/2016
+Grillone T, Menniti M, Ciambrone A, Vismara MFM, Tallerico R, Nocera D, Fabiani F, Perrotti, Colao E, Iuliano R: ”Individuazione di una nuova mutazione responsabile della Sindrome di Gitelman (A new disease causative mutation of SLC12A3 gene in Gitelman's syndrome)". XIX SIGU (Società Italiana di Genetica Medica) national meeting, Turin, Italy; 01/2016
 
 Cosmi EV, Vismara MFM, Madonna Terracina G, Pizzullo S: “Infezioni materne come indicazione all'ecocardiografia fetale *(Maternal infections as indication for fetal echocardiography)*”. AGUI Congress, Rome, Italy; 07/2007
 
