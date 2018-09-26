@@ -29,6 +29,8 @@ email: marco@vismara.info
 
 ### - Papers
 
+Marotta R, Rapetto U, Vismara MFM, Meschesi V, Toaff J, Settanni C, Cemicetti R, Zepponi B, Lavano SM, Lavano F, Pulvirenti G."Articolo originale - Impatto e rischi delle nuove tecnologie informatiche negli adolescenti: risultati di un sondaggio condotto su 1534 soggetti. Impact and risks of new information technologies in adolescents: results of a survey conducted on 1534 subjects." Giornale di NEUROPSICHIATRIA dell’ETÀ EVOLUTIVA 2018;38:9-13.
+
 Vismara MFM+, Toaff J, Pulvirenti G, Settanni C, Colao E, Lavano SM, Cemicetti R, Cotugno D, Perrotti G, Meschesi V, Montera R, Rapetto U, Marotta R. Internet and adolescents: use and access, behavior, cyberbullying and grooming. Results of an investigative whole city survey. Interact J Med Res Interact J Med Res. 2017 Aug 29;6(2):e9. doi: 10.2196/ijmr.6231.
 
 Mignogna C, Signorelli F, Vismara MFM, Zeppa P, Camastra C, Barni T, Donato G, Di Vito A. A reappraisal of macrophage polarization in glioblastoma: Histopathological and immunohistochemical findings and review of the literature. Pathol Res Pract. 2016 Jun;212(6):491-9. doi: 10.1016/j.prp.2016.02.020. Epub 2016 Feb 24. 
